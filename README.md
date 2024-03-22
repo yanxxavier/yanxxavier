@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yanxxavier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yanxxavier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+ 
 </div>
 <details>
   <summary>👨‍💻 More about me</summary>
@@ -30,27 +30,6 @@
   - ⚡ I enjoy participating in street races as a sport and I'm currently learning to surf. I like playing games with my brother and friends and going out with my girlfriend.
 </details>
 
-###
-
-## 🔥 Skills
-
-###
-
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCDc1tYA3J9LtnGiJc5TKFTg" target="_blank">
@@ -71,6 +50,30 @@
 </div>
 
 ###
+
+###
+
+## 🔥 Skills
+
+
+
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
+</div>
+
+###
+
+
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUwZDR3dm00M3Zhd3g4a25mMmxvNWJrcGN4OHc5bzMzemZhYzI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KXECBV0GkdCX6/giphy.gif" alt="Imagem">
