@@ -10,7 +10,7 @@
 <p>
   Hi 👋, I'm Yan! A passionate computer engineering student from Brazil.
 
-  - 🌱 I’m currently studying computer engineering at Federal University of Rio Grande do Norte 
+  - 🌱 I’m currently studying Ciências e Tecnologias at Federal University of Rio Grande do Norte 
 
   - 🔭 I am looking for my first job opportunity. 
 </p>
