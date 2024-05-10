@@ -1,12 +1,13 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
-</div>
 
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlsc200ZHYybmcxY2J4bm5wajAyd2tic3l2N3lncnc5bHRxdXJzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cvyz3Hw4d7EIw/giphy.gif"  />
 
-###
+
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Yan Xavier</h1>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/yanxxavier/d1a12385f7c0b74676d6a83658adaa77/raw/6211b61f6c60cb37d9b1435f0710e1850277e432/gitCard.svg"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanxxavier&color=yellow" alt="Profile views" /> </p>
+
+
 <p>
   Hi 👋, I'm Yan! A passionate computer engineering student from Brazil.
 
@@ -16,21 +17,17 @@
 </p>
 
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanxxavier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" align="center" />
-  
-###
  
 </div>
-<details>
+
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I'm 19 years old, I'm learning new technologies every day through b7web's Dev Full Stack course. Furthermore, I am an aspiring reserve officer, graduated from the Reserve Officer Preparation Center in 2023. An experience that made me create leadership, camaraderie, rusticity, a spirit of mission accomplishment and proactivity.
 
   - ⚡ I enjoy participating in street races as a sport and I'm currently learning to surf. I like playing games with my brother and friends and going out with my girlfriend.
-</details>
+
+
 
 
 <div align="center">
@@ -51,34 +48,43 @@
   </a>
 </div>
 
-###
+
+## ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yanxxavier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
+
+</div>
 
 ###
 
-## 🔥 Skills
+## 🛠 &nbsp;Tech Stack
 
 
 
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
 </div>
 
+
 ###
+
+
+
 
 
 
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUwZDR3dm00M3Zhd3g4a25mMmxvNWJrcGN4OHc5bzMzemZhYzI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KXECBV0GkdCX6/giphy.gif" alt="Imagem">
+ <img align="center" height="350" src="https://giffiles.alphacoders.com/200/200668.gif"  />
 </p>
 
-###
+
